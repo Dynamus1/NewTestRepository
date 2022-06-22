@@ -4,7 +4,6 @@ public class TylerBranch {
 
     }
 
-
     public void testBranchMethod(){
 
 
